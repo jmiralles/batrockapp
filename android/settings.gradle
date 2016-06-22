@@ -1,0 +1,3 @@
+rootProject.name = 'batrock'
+
+include ':app'
